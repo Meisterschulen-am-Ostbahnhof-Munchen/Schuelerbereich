@@ -2,6 +2,10 @@
 
 Cmd: ping 192.168.188.9 -t
 
+```
+ping 192.168.188.9 -t
+```
+
 Strg+C= Anhalten  
 Pfeil nach oben+ Enter= Starten
 
