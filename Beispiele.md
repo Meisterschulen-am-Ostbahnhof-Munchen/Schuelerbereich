@@ -15,3 +15,9 @@ IX= Eingang; Button(Roter Knopf)
 ## Mapping
 
 ![](https://user-images.githubusercontent.com/113907580/196193455-f9d067f3-d72a-4c61-a69a-50162884c518.png)
+
+# Tastende Funktion
+
+I3 auf Q1 Tastend
+
+![](https://user-images.githubusercontent.com/113907580/196202901-705d25b4-4c18-4641-83e1-242ec5daf062.png)
