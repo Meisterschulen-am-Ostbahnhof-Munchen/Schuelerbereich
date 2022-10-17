@@ -6,6 +6,10 @@
 
 ## App
 
+QX= Ausgang zu Verbraucher (LED Signallampe)
+
+IX= Eingang; Button(Roter Knopf)
+
 ![](https://user-images.githubusercontent.com/113907580/196192906-e228be04-4ecc-4f53-9bcd-554a7bf09f25.png)
 
 ## Mapping
