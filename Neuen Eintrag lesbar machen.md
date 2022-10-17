@@ -1,4 +1,6 @@
-Add File. Create new File 
+1.Add File. 
+
+2.Create new File 
 
 Immer nach dem Dateiennamen _**.md**_ eingeben. Dann wird es normal lesbar.
 
