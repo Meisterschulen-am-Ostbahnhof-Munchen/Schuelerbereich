@@ -6,4 +6,4 @@
 
 Immer nach dem Dateiennamen _**.md**_ eingeben. Dann wird es normal lesbar.
 
-![](https://user-images.githubusercontent.com/113907471/196171912-0ec8933e-45bc-4a93-8984-43c76be04b56.png)
+![](https://user-images.githubusercontent.com/113907471/196175410-e99b95d2-4a9d-48b8-bac1-c2db16dad3cb.png)
