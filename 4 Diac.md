@@ -1,3 +1,5 @@
+Eingabeaufforderung
+
 Cmd: ping leerzeichen 192.168.188.9 leerzeichen -t
 
 4 Diac:  
