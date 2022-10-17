@@ -1,6 +1,6 @@
 Eingabeaufforderung
 
-Cmd: ping leerzeichen 192.168.188.9 leerzeichen -t
+Cmd: ping Leerzeichen 192.168.188.9 Leerzeichen -t
 
 4 Diac:  
 Zeiten ändern
