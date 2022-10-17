@@ -21,3 +21,9 @@ IX= Eingang; Button(Roter Knopf)
 I3 auf Q1 Tastend
 
 ![](https://user-images.githubusercontent.com/113907580/196202901-705d25b4-4c18-4641-83e1-242ec5daf062.png)
+
+# Beide Funktionieren mit einer Oder Verknüpfung
+
+(IEC 61131-3>booleanOperaitors>OR 2
+
+![](https://user-images.githubusercontent.com/113907580/196211053-9228cf47-e095-47b1-bf8f-9b4e7372b29d.png)
