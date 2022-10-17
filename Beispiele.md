@@ -27,3 +27,9 @@ I3 auf Q1 Tastend
 (IEC 61131-3>booleanOperaitors>OR 2
 
 ![](https://user-images.githubusercontent.com/113907580/196211053-9228cf47-e095-47b1-bf8f-9b4e7372b29d.png)
+
+# Funktioniert nur wenn Beide betätigt werden
+
+Gleicher Pfad wie oben, AND\_2
+
+![](https://user-images.githubusercontent.com/113907580/196214101-6aad671f-c2bd-4ce6-aa07-93450035d9a7.png)
