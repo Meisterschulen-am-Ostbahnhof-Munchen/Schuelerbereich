@@ -1,11 +1,12 @@
-Cmd: ping leerzeichen192.168.188.9 leerzeichen -t
+Cmd: ping leerzeichen 192.168.188.9 leerzeichen -t
 
-4 Diac:
-Zeiten ändern 
-1. Remove Watches 
-2. ändern
-3. Deploy, Replace
-4. Watch 
+4 Diac:  
+Zeiten ändern
 
-Strg+C Anhalten 
-Pfeil nach oben+ Enter Starten 
+1.  Remove Watches
+2.  ändern
+3.  Deploy, Replace
+4.  Watch
+
+Strg+C Anhalten  
+Pfeil nach oben+ Enter Starten
