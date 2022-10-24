@@ -12,7 +12,7 @@ I1 I2 Q
 
 | Item | Price | \# In stock |
 | --- | --- | --- |
-| Juicy Apples | 1.99 | _7_ |
+| Juicy Apples | 1.99 | hkjhj |
 | Bananas | **1.89** | 5234 |
 
 und  
