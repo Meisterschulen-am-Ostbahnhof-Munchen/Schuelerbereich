@@ -4,11 +4,11 @@ C IEC 9899 =  Textprogrammierung ( gängigste)
 
 Visuelle IEC 61499 ( Vorteil, arbeitet nur bei einem Event (Veränderung) = 1\_\_\_\_\_6)
 
-**Datentypen** 
+**Datentypen**
 
-| **Typ** | **BYTE Länge** | **Bit Länge** | **Wertebereich** | **Wertebereich** |
+| **Typ** | **BYTE Länge** | **Bit Länge** | Unterer Grenzwert | Oberer Grenzwert |
 | --- | --- | --- | --- | --- |
-|   |   |   | min | max |
+|   |   | (=Speicherplatz) |   |   |
 | BOOL | 0 | 1 Bit | 0 = FALSE | 1= TRUE |
 | SINT | 1 | 8 Bit | −128 | 127 |
 | INT | 2 | 16 Bit | −32.768 | 32.767 |
