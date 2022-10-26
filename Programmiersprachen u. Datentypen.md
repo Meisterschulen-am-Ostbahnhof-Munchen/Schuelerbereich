@@ -2,8 +2,19 @@
 
 C IEC 9899 =  Textprogrammierung ( gängigste)
 
-Visuelle IEC 61499 ( Vorteil, arbeitet nur bei einem Event (Veränderung) = 1\_\_\_\_\_6
+Visuelle IEC 61499 ( Vorteil, arbeitet nur bei einem Event (Veränderung) = 1\_\_\_\_\_6)
 
-**Datentypen**
+**Datentypen** 
 
-<table><tbody><tr><td><strong>Datentyp</strong></td><td><strong>Unterer Grenzwert</strong></td><td><strong>Oberer Grenzwert</strong></td><td><strong>Speicherplatz</strong></td></tr><tr><td>BYTE</td><td>0</td><td>255</td><td>8 Bit</td></tr><tr><td>WORD</td><td>0</td><td>65.535</td><td>16 Bit</td></tr><tr><td>DWORD</td><td>0</td><td>4.294.967.295</td><td>32 Bit</td></tr><tr><td>LWORD</td><td>0</td><td>264-1</td><td>64 Bit</td></tr><tr><td>SINT</td><td>–128</td><td>127</td><td>8 Bit</td></tr><tr><td>USINT</td><td>0</td><td>255</td><td>8 Bit</td></tr><tr><td>INT</td><td>–32.768</td><td>32.767</td><td>16 Bit</td></tr><tr><td>UINT</td><td>0</td><td>65.535</td><td>16 Bit</td></tr><tr><td>DINT</td><td>–2.147.483.648</td><td>2.147.483.647</td><td>32 Bit</td></tr><tr><td>UDINT</td><td>0</td><td>4.294.967.295</td><td>32 Bit</td></tr><tr><td>LINT</td><td>–263</td><td>263-1</td><td>64 Bit</td></tr></tbody></table>
+| **Typ** | **BYTE Länge** | **Bit Länge** | **Wertebereich** | **Wertebereich** |
+| --- | --- | --- | --- | --- |
+|   |   |   | min | max |
+| BOOL | 0 | 1 Bit | 0 = FALSE | 1= TRUE |
+| SINT | 1 | 8 Bit | −128 | 127 |
+| INT | 2 | 16 Bit | −32.768 | 32.767 |
+| DINT | 4 | 32 Bit | −2.147.483.648 | 2.147.483.647 |
+| LINT | 8 | 64 Bit | −9.223.372.036.854.775.808 | 9.223.372.036.854.775.807 |
+
+Die wichtigen Datentypen sind oben aufgelistet.
+
+Link zur vollständigen Tabelle im Wiki; [https://visual-programming-languages-docs.readthedocs.io/de/latest/Allgemeines.html#datentypen](https://visual-programming-languages-docs.readthedocs.io/de/latest/Allgemeines.html#datentypen) (Allgemeines zur visual-programming-languages)
