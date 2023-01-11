@@ -1,10 +1,13 @@
-**Programmiersprachen**
+
+# Programmiersprachen und Datentypen
+
+## Programmiersprachen
 
 C IEC 9899 =  Textprogrammierung ( gängigste)
 
 Visuelle IEC 61499 ( Vorteil, arbeitet nur bei einem Event (Veränderung) = 1\_\_\_\_\_6)
 
-**Datentypen**
+## Datentypen
 
 | **Typ** | **BYTE Länge** | **Bit Länge** | Unterer Grenzwert | Oberer Grenzwert |
 | --- | --- | --- | --- | --- |
