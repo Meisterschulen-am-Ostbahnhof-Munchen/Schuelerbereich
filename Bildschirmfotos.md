@@ -1,4 +1,4 @@
-# Bildschirmfotos machen und bearbeiten.
+# Bildschirmfotos machen und bearbeiten
 
 *   Windows Start Button drücken 
 *   Bei Suchbegriffe _**Snipping Tool**_ eingeben 
