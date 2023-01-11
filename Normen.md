@@ -3,7 +3,7 @@
 1.  **DIN:** Deutsche Institut für Normung e. V.
     1.  [https://www.din.de/de](https://www.din.de/de)
     2.  [https://www.beuth.de/de](https://www.beuth.de/de)
-    3.  [https://de.wikipedia.org/wiki/Deutsches_Institut_f%C3%BCr_Normung](https://de.wikipedia.org/wiki/Deutsches_Institut_f%C3%BCr_Normung)
+    3.  [https://de.wikipedia.org/wiki/Deutsches_Institut_für_Normung](https://de.wikipedia.org/wiki/Deutsches_Institut_f%C3%BCr_Normung)
 2.  **EN:** Europäische Norm
 3.  **ISO:** Internationale Organisation für Normung
 4.  **VDE:** Verband der Elektrotechnik Elektronik Informationstechnik e. V
