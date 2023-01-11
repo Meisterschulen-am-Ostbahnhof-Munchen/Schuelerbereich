@@ -5,7 +5,7 @@ http://192.168.188.7/ aufrufen aber die Hinter Nummer anpassen auf Schülernumme
 
 ![](https://user-images.githubusercontent.com/113907608/197560563-186440c9-8940-45d7-8fe1-dbc5c8212801.png)
 
-*   DefaultPool.iop rauschlöschen mit Delete 
+*   DefaultPool.iop rauschlöschen mit Delete
 
 ![](https://user-images.githubusercontent.com/113907608/197560817-a8143ffd-486d-4929-8c68-55c72522d826.png)
 
