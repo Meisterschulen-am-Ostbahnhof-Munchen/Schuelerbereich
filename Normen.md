@@ -10,7 +10,7 @@
 8.  **EVS (Estland):**
 9.  **ETSI:** Europäisches Institut für Telekommunikationsnormen
 10.  **ÖNORM:** österreichische Norm
-11.  **BS:**
+11.  **BS:** British Standard
 12.  **IEEE:** Institute of Electrical and Electronics Engineers
 13.  **SAE:** Society of Automotive Engineers (Verband der Automobilingenieure)
 14.  **SAE J1939:** beschreibt die Kommunikation auf einem CAN-Bus in Nutzfahrzeugen zur Übermittlung von Diagnosedaten (z. B. Motordrehzahl, Temperatur) und Steuerungsinformationen.
