@@ -1,4 +1,3 @@
-
 # Programmiersprachen und Datentypen
 
 ## Programmiersprachen
