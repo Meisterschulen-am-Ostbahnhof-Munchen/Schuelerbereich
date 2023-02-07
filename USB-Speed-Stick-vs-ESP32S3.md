@@ -8,6 +8,9 @@ Testing Method:
 
 | Brand | Type | Cap | Connection | Result |
 | --- | --- | --- | --- | --- |
-| SanDisk | Cruzer Blade | 32GB | USB 2.0 | \- |
+| SanDisk | Cruzer Blade | 32GB | USB 2.0 | 
+![](https://user-images.githubusercontent.com/69573151/217361551-c1eeb290-a683-4d8e-937c-d75ce4a8fdfb.png)
+
+ |
 | \- | \- |   | \- | \- |
 | \- | \- |   | \- | \- |
