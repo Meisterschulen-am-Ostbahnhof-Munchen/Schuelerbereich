@@ -14,7 +14,6 @@ Testing Method:
 | x | x | x | x | x | x |
 | SanDisk | Cruzer Blade | 32GB | USB 2.0 | FAT32 | ![](https://user-images.githubusercontent.com/69573151/217361551-c1eeb290-a683-4d8e-937c-d75ce4a8fdfb.png) |
 | x | x | x | x | x | x |
-
 | Kingston | DataTraveler Kyson | 64GB  | USB 3.2 Gen 1 | NTFS | ![image](https://user-images.githubusercontent.com/69573151/217365357-f2d0cc65-95f3-4e5a-ab97-9f621efd84c2.png) |
 | SanDisk | Ultra | 16GB | USB 3.0 | NTFS | x |
 | SanDisk | Ultra | 64GB | USB 3.0 | NTFS | x |
