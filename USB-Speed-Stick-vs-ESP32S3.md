@@ -17,7 +17,7 @@ Testing Method:
 | \- | \- |   | \- |   | \- |
 | \- | \- |   | \- |   | \- |
 | \- | \- |   | \- |   | \- |
-| SanDisk | Extreme PRO | 128GB  | USB 3.1 Gen1|   | ![image](https://user-images.githubusercontent.com/69573151/217363994-cfdff596-231f-4a60-978c-1c885d238924.png)|
+| SanDisk | Extreme PRO | 128GB  | USB 3.1 Gen1|  NTFS | ![image](https://user-images.githubusercontent.com/69573151/217363994-cfdff596-231f-4a60-978c-1c885d238924.png)|
 | Samsung | SSD 980 PRO | 1 TB | m.2 | NTFS | ![](https://user-images.githubusercontent.com/69573151/217362259-0c7982dc-f856-4b81-9f7e-5c7207410287.png) |
 | \- | \- |   | \- |   | \- |
 | \- | \- |   | \- |   | \- |
