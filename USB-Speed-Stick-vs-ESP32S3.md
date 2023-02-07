@@ -24,3 +24,11 @@ Testing Method:
 | x | x | x | x | x | x |
 | x | x | x | x | x | x |
 | x | x | x | x | x | x |
+
+
+Remarks for ESP32: 
+
+https://github.com/espressif/esp-idf/commit/80cad41cc2d15cc9173e2b6b2c6aa7306a92b7f7
+
+https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/tusb_msc
+
