@@ -6,8 +6,8 @@ Testing Method:
 
 [https://www.computerbild.de/download/CrystalDiskMark-Portable-7871692.html](https://www.computerbild.de/download/CrystalDiskMark-Portable-7871692.html)
 
-| \- | \- | \- |
-| --- | --- | --- |
-| \- | \- | \- |
-| \- | \- | \- |
-| \- | \- | \- |
+| Brand | \- | \- | \- |
+| --- | --- | --- | --- |
+| SanDisk | Cruzer Blade  | \- USB 2.0 | \- |
+| \- | \- | \- | \- |
+| \- | \- | \- | \- |
