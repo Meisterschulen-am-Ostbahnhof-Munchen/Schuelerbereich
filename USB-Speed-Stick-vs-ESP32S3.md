@@ -8,7 +8,7 @@ Testing Method:
 
 | Brand | Type | Cap | Connection | Format | Result |
 | --- | --- | --- | --- | --- | --- |
-| x | x | x | x | x | x |
+| Espressif | ESP32-S3-DevKitC-1-N8 | x | x | x | x |
 | x | x | x | x | x | x |
 | x | x | x | x | x | x |
 | x | x | x | x | x | x |
