@@ -10,7 +10,7 @@ Testing Method:
 | --- | --- | --- | --- | --- | --- |
 | Espressif | ESP32-S3-DevKitC-1-N8 | x | x | x | ![image](https://user-images.githubusercontent.com/69573151/217378275-d1d1f02b-f54c-468a-a19a-ac49554f0eff.png)|
 | Espressif | ESP32-S3-DevKitC-1-N32R8V | x | x | x | ![image](https://user-images.githubusercontent.com/69573151/219315027-aa140d1e-b6d3-4b2a-b004-bd371f352c7c.png) |
-| Espressif | ESP32-S3-DevKitC-1-N8R2 | x | x | x | x |
+| Espressif | ESP32-S3-DevKitC-1-N8R2 | x | x | x | ![image](https://user-images.githubusercontent.com/69573151/219327427-4226a493-cd78-4a26-93b0-3b6ce5956ac1.png) |
 | x | x | x | x | x | x |
 | x | x | x | x | x | x |
 | SanDisk | Cruzer Blade | 32GB | USB 2.0 | FAT32 | ![](https://user-images.githubusercontent.com/69573151/217361551-c1eeb290-a683-4d8e-937c-d75ce4a8fdfb.png) |
