@@ -12,7 +12,7 @@ Testing Method:
 | Espressif | ESP32-S3-DevKitC-1-N32R8V | x | x | x | ![image](https://user-images.githubusercontent.com/69573151/219315027-aa140d1e-b6d3-4b2a-b004-bd371f352c7c.png) |
 | Espressif | ESP32-S3-DevKitC-1-N8R2 | x | x | x | ![image](https://user-images.githubusercontent.com/69573151/219327427-4226a493-cd78-4a26-93b0-3b6ce5956ac1.png) |
 | Espressif | ESP32-S3-DevKitC-1-N32R8V DDR | x | x | x |  |
-| Espressif | ESP32-S3-USB-OTG with 32 GB SanDisk Ultra microSDHC UHS-I Speicherkarte 32 GB | x | x | x | x |
+| Espressif | ESP32-S3-USB-OTG with 32 GB SanDisk Ultra microSDHC UHS-I Speicherkarte 32 GB | x | x | x | ![image](https://user-images.githubusercontent.com/69573151/221162639-65ba0f7e-8c7b-4b29-ae91-c2d9171bcaba.png) |
 | SanDisk | Cruzer Blade | 32GB | USB 2.0 | FAT32 | ![](https://user-images.githubusercontent.com/69573151/217361551-c1eeb290-a683-4d8e-937c-d75ce4a8fdfb.png) |
 | x | x | x | x | x | x |
 | Kingston | DataTraveler Kyson | 64GB  | USB 3.2 Gen 1 | NTFS | ![image](https://user-images.githubusercontent.com/69573151/217365357-f2d0cc65-95f3-4e5a-ab97-9f621efd84c2.png) |
